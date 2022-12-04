@@ -11,7 +11,7 @@ Currently there are 11 Trinity requiremnts
 - **Areas of Knowledge:** ALP, CZ, NS, QS, SS 
 - **Modes of Inquiry:** CCI, STS, EI, R, W, Foreign Language
 
-In order to graduate students must do 2 credits in each (excluding Foreign Language.) With a CF Code, students can override 1/2 credits for a give requiremnt. Students are given **5** CF codes to use throughout their time at Duke.
+In order to graduate students must do 2 credits in each (excluding Foreign Language.) With a CF Code, students can override 1 of the 2 credits for a give requiremnt. Students are given **5** CF codes to use throughout their time at Duke.
 
 ![](<images/Choose Fun Override Example.png>)
 
