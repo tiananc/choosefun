@@ -1,5 +1,5 @@
 ---
-permalink: _layouts/index.html
+permalink: index.html
 ---
 
 # Choose Fun
