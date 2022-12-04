@@ -15,10 +15,10 @@ In order to graduate students must do 2 credits in each (excluding Foreign Langu
 ![](<images/Choose Fun Override Example.png>)
 
 ## What Would be Listed Under "CF"
-- **Course with unique and engaging methods of teaching**
-- **Study Abroad/Away
-- **Courses with unique attributes such as Bass Connections or Service Learning
-- **Courses determined as such from course evaluation feedback
+- Course with unique and engaging methods of teaching
+- Study Abroad/Away
+- Courses with unique attributes such as Bass Connections or Service Learning
+- Courses determined as such from course evaluation feedback
 
 # Would you try "Choose Fun"?
 ### Please Fill Out this Survey
