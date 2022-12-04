@@ -3,6 +3,7 @@ Choose Fun is a new course code students can use to replace any a traditional Tr
 
 # How it Works
 Some courses will have a "CF" code in addition to traditional course codes. These are courses that have been determined to be unique, engaging, and interdisciplinary in nature.
+
 ![](<images/Choose Fun Example 1.png>)
 
 ## Replacing Traditional Trinity Requirements
@@ -10,6 +11,7 @@ Currently there are 11 Trinity requiremnts
 **Areas of Knowledge:** ALP, CZ, NS, QS, SS 
 **Modes of Inquiry:** CCI, STS, EI, R, W, Foreign Language
 In order to graduate students must do 2 credits in each (excluding Foreign Language.) With a CF Code, students can override 1/2 credits for a give requiremnt. Students are given **5** CF codes to use throughout their time at Duke.
+
 ![](<images/Choose Fun Override Example.png>)
 
 ## What Would be Listed Under "CF"
